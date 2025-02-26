@@ -95,5 +95,3 @@ The amount of data in the world is huge but to understand it's trend it is very 
 
 The role of a data piepline hence becomes crucial to make it easy for future analysis, this project helped us extract data effectively and efficiently and store it securely with the help of AWS services.
 
-# For more understanding, contact me
-Email me [at](yatharthc13@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/yatharthc13)
